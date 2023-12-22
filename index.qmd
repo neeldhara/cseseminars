@@ -17,6 +17,11 @@ Please feel free to reach out to me at `neeldhara.m@iitgn.ac.in` if you see an u
 <iframe style="border:none;width:100%;" height="420px" src="https://opnform.com/forms/my-form-1bmcse"></iframe>
 :::
 
+:::{.callout-important appearance="minimal"}
+
+{{< bi card-text color="indianred" >}} We have some collectibles (mostly business cards with quotes) that will be handed out to the in-person attendees: it'll be a different one every week, and I hope some of us collect them all!
+:::
+
 <!-- begin panel -->
 ::: {.panel-tabset}
 
