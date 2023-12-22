@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "IITGN · CSE Department Seminars"
+  navbar: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-in-header:
+      text: |
+        <script async data-nf='{"formurl":"https://opnform.com/forms/my-form-1bmcse","emoji":"📆","position":"right","bgcolor":"transparent","width":"500"}' src='https://d3ietpyl4f2d18.cloudfront.net/f4cae81b-194e-442a-a412-5783fce209db/widgets/embed-min.js'></script>
+
+
+
