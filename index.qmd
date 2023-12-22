@@ -9,9 +9,9 @@ https://iitgn-ac-in.zoom.us/j/5086558236?pwd=bXl6NXFpQURVWnJZaDJucUpqN3hUZz09&om
 - are 50 minutes long, followed by 10 minutes of Q&A;
 - and start on Fridays at 3:30PM.
 
-Please feel free to reach out to me at `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday and would like to give a talk in this series!
+Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday and would like to give a talk in this series.
 
-:::{.callout-caution icon="false" collapse="true"}
+:::{.callout-caution icon="false"}
 # Sign up for reminders
 
 <iframe style="border:none;width:100%;" height="420px" src="https://opnform.com/forms/my-form-1bmcse"></iframe>
@@ -19,7 +19,7 @@ Please feel free to reach out to me at `neeldhara.m@iitgn.ac.in` if you see an u
 
 :::{.callout-important appearance="minimal"}
 
-{{< bi card-text color="indianred" >}} We have some collectibles (mostly business cards with quotes) that will be handed out to the in-person attendees: it'll be a different one every week, and I hope some of us collect them all!
+{{< bi card-text color="indianred" >}} We have some collectibles (mostly business cards with quotes) that will be handed out to the in-person attendees: it'll be a different one every week, and I hope some of us collect them all :)
 :::
 
 <!-- begin panel -->
@@ -32,7 +32,7 @@ Please feel free to reach out to me at `neeldhara.m@iitgn.ac.in` if you see an u
 
 Stable marriage of a two-sided market with unit demand is a classic problem that arises in many real-world scenarios. In addition, a unique stable marriage in this market simplifies a host of downstream desiderata. In this paper, we explore a new set of sufficient conditions for unique stable matching (USM) under this setup. Unlike other approaches that also address this question using the structure of preference profiles, we use an algorithmic viewpoint and investigate if this question can be answered using the lens of the deferred acceptance (DA) algorithm (Gale and Shapley, 1962). Our results yield a set of sufficient conditions for USM (viz., MaxProp and MaxRou) and show that these are disjoint from the previously known sufficiency conditions like sequential preference and no crossing. We also provide a characterization of MaxProp that makes it efficiently verifiable, and shows the gap between MaxProp and the entire USM class. These results give a more detailed view of the sub-structures of the USM class.
 
-This is a joint work with Kartik Gokhale, Amit Kumar Mallik, and Ankit Kumar Misra.
+This is a joint work with Kartik Gokhale, Amit Kumar Mallik, and Ankit Kumar Misra. [S](https://docs.google.com/presentation/d/10DClCFmC1PRbzBDeHX4dUT8hNgIlodvfHpRKEDmVr4c/edit?usp=sharing)
 :::
 
 :::{.callout-tip icon="false"}
