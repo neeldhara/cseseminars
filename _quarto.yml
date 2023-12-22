@@ -12,7 +12,7 @@ format:
     toc: true
     include-in-header:
       text: |
-        <script async data-nf='{"formurl":"https://opnform.com/forms/my-form-1bmcse","emoji":"📆","position":"right","bgcolor":"transparent","width":"500"}' src='https://d3ietpyl4f2d18.cloudfront.net/f4cae81b-194e-442a-a412-5783fce209db/widgets/embed-min.js'></script>
+        <script async data-nf='{"formurl":"https://opnform.com/forms/my-form-1bmcse","emoji":"📆","position":"right","bgcolor":"LightSeaGreen","width":"500"}' src='https://d3ietpyl4f2d18.cloudfront.net/f4cae81b-194e-442a-a412-5783fce209db/widgets/embed-min.js'></script>
         <script src="https://cdn.usefathom.com/script.js" data-site="GEGVVXEZ" defer></script>
 
 
