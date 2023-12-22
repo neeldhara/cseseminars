@@ -4,7 +4,8 @@ title: "2024 Spring · CSE Department Seminars"
 
 Welcome to the CSE Department Seminars for the Spring term of 2024! We are excited to announce an amazing lineup of speakers this semester. Unless mentioned otherwise:
 
-- all talks are hybrid, and you can join us either at `7/101`^[The speakers are typically present in person.] if you are on campus, or over Zoom;
+- all talks are hybrid, and you can join us either at `7/101`^[The speakers are typically present in person.] if you are on campus, or over [Zoom](
+https://iitgn-ac-in.zoom.us/j/5086558236?pwd=bXl6NXFpQURVWnJZaDJucUpqN3hUZz09&omn=94677480599)^[The passcode is `t____g`. This is the first word in the popular phrases `****** test` and `****** award`. ChatGPT knows the answer too.];
 - are 50 minutes long, followed by 10 minutes of Q&A;
 - and start on Fridays at 3:30PM.
 
