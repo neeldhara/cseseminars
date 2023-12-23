@@ -19,7 +19,7 @@ Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday
 
 :::{.callout-important appearance="minimal"}
 
-{{< bi card-text color="indianred" >}} We have some collectibles (mostly business cards with quotes) that will be handed out to the in-person attendees: it'll be a different one every week, and I hope some of us collect them all :)
+{{< bi card-text color="indianred" >}} We have some signed collectibles that will be handed out to the in-person attendees and it'll be a different one every week --- can you collect them all? :)
 :::
 
 <!-- begin panel -->
