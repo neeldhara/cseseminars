@@ -11,7 +11,7 @@ https://iitgn-ac-in.zoom.us/j/5086558236?pwd=bXl6NXFpQURVWnJZaDJucUpqN3hUZz09&om
 
 Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday and would like to give a talk in this series.
 
-:::{.callout-caution icon="false"}
+:::{.callout-caution icon="false" collapse="true"} 
 # Sign up for reminders
 
 <iframe style="border:none;width:100%;" height="420px" src="https://opnform.com/forms/my-form-1bmcse"></iframe>
@@ -28,36 +28,25 @@ Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday
 ## Up Next
 
 :::{.callout-note icon="false"}
-# `22-12-2023` · A Gale-Shapley View of Unique Stable Marriages
+# `29-12-2023` · How many Clusters ? - An Algorithmic Answer
 
-Stable marriage of a two-sided market with unit demand is a classic problem that arises in many real-world scenarios. In addition, a unique stable marriage in this market simplifies a host of downstream desiderata. In this paper, we explore a new set of sufficient conditions for unique stable matching (USM) under this setup. Unlike other approaches that also address this question using the structure of preference profiles, we use an algorithmic viewpoint and investigate if this question can be answered using the lens of the deferred acceptance (DA) algorithm (Gale and Shapley, 1962). Our results yield a set of sufficient conditions for USM (viz., MaxProp and MaxRou) and show that these are disjoint from the previously known sufficiency conditions like sequential preference and no crossing. We also provide a characterization of MaxProp that makes it efficiently verifiable, and shows the gap between MaxProp and the entire USM class. These results give a more detailed view of the sub-structures of the USM class.
+Many algorithms for clustering high dimensional data assume that k, the number of clusters, is given. However, there has been little work on provably inferring k from the data. In this talk, I shall describe polynomial time algorithms for fi€nding k from the data assuming it satisfies certain natural deterministic conditions. Informally, we assume that there is a Ground Truth (GT) clustering of the data with the following properties: (i) Each cluster has a certain minimum size, (ii) the inter-mean separation of any two distinct clusters in the GT is large enough (although still weaker than what is typically assumed in the literature), and (iii) we define a novel “no large sub-cluster”(NLSC) property that characterizes the notion of a cluster
+by stipulating that there be no subsets of low “directional variance”. NLSC is indeed satisfied by a large class of distributions including log-concave densities.  This is joint work with Chiranjib Bhattacharyya and Ravindran Kannan.
 
-This is a joint work with Kartik Gokhale, Amit Kumar Mallik, and Ankit Kumar Misra. [S](https://docs.google.com/presentation/d/10DClCFmC1PRbzBDeHX4dUT8hNgIlodvfHpRKEDmVr4c/edit?usp=sharing)
 :::
 
 :::{.callout-tip icon="false"}
-# About the Speaker · Swaprava Nath
-
-Swaprava is an Assistant Professor at the Department of Computer Science and Engineering, IIT Bombay. Before this, he was a faculty member at the Dept. of CSE, IIT Kanpur. Even earlier, he held postdoctoral positions at Carnegie Mellon University and Indian Statistical Institute, New Delhi, and finished his PhD from the Dept. of CSA, IISc Bangalore. His research interest lies at the intersection of economics and computation, which has several applications in social and industrial paradigms (for details, please see his [CompEcon group page](https://www.cse.iitb.ac.in/~swaprava/group.html) and his [research page](https://www.cse.iitb.ac.in/~swaprava/research.html)). His work has been published in top AI and multiagent systems conferences, e.g., AAAI, IJCAI, AAMAS, WINE, and also in economics and management venues, e.g., Games and Econ Behavior, Economics Letters, Management Science. Apart from academic positions, Swaprava also has experience in the industry. He has worked at Xerox Research Centre Europe and Cisco Systems India. He has been recipients of Fulbright-Nehru postdoctoral grant, Tata Consultancy Services PhD Fellowship, and the Honorable Mention Award of Yahoo! Key Scientific Challenges Program.
-:::
-
-Note: we are also hosting the [nano-course on modern cryptography](https://www.neeldhara.com/courses/2023/crypto) by [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) this week.
-
-## Upcoming Talks
-
-
-:::{.callout-note icon="false" collapse="true"}
-# `29-12-2023` · TBA
-
-:::
-
-:::{.callout-tip icon="false" collapse="true"}
 # About the Speaker · Amit Kumar
 
 Amit Kumar is Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Delhi. He received his B.Tech. degree from Indian Institute of Technology Kanpur in 1997, and Ph.D. from Cornell University in 2002. He worked as Member of Technical Staff at Bell Labs, Murray Hill, New Jersey, U.S. during 2002–2003. He joined IIT Delhi as faculty member in 2003. He works in the area of combinatorial optimization, approximation algorithms and online algorithms. He is working extensively on problems arising in scheduling theory, clustering, and graph theoretic algorithmic problems.
 :::
 
 ---
+
+Note: we are also hosting the [nano-course on modern cryptography](https://www.neeldhara.com/courses/2023/crypto) by [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) this week.
+
+## Upcoming Talks
+
 
 :::{.callout-note icon="false" collapse="true"}
 # `05-01-2024` · TBA
@@ -119,7 +108,21 @@ Shriram is the Vice President for Programming Languages at Brown University in P
 
 ## Past Talks
 
-Will be updated as we go along!
+:::{.callout-note icon="false"}
+# `22-12-2023` · A Gale-Shapley View of Unique Stable Marriages
+
+Stable marriage of a two-sided market with unit demand is a classic problem that arises in many real-world scenarios. In addition, a unique stable marriage in this market simplifies a host of downstream desiderata. In this paper, we explore a new set of sufficient conditions for unique stable matching (USM) under this setup. Unlike other approaches that also address this question using the structure of preference profiles, we use an algorithmic viewpoint and investigate if this question can be answered using the lens of the deferred acceptance (DA) algorithm (Gale and Shapley, 1962). Our results yield a set of sufficient conditions for USM (viz., MaxProp and MaxRou) and show that these are disjoint from the previously known sufficiency conditions like sequential preference and no crossing. We also provide a characterization of MaxProp that makes it efficiently verifiable, and shows the gap between MaxProp and the entire USM class. These results give a more detailed view of the sub-structures of the USM class.
+
+This is a joint work with Kartik Gokhale, Amit Kumar Mallik, and Ankit Kumar Misra. 
+
+[Slides](https://docs.google.com/presentation/d/10DClCFmC1PRbzBDeHX4dUT8hNgIlodvfHpRKEDmVr4c/edit?usp=sharing) · [ArXiV](https://arxiv.org/abs/2310.18736)
+:::
+
+:::{.callout-tip icon="false"}
+# About the Speaker · Swaprava Nath
+
+Swaprava is an Assistant Professor at the Department of Computer Science and Engineering, IIT Bombay. Before this, he was a faculty member at the Dept. of CSE, IIT Kanpur. Even earlier, he held postdoctoral positions at Carnegie Mellon University and Indian Statistical Institute, New Delhi, and finished his PhD from the Dept. of CSA, IISc Bangalore. His research interest lies at the intersection of economics and computation, which has several applications in social and industrial paradigms (for details, please see his [CompEcon group page](https://www.cse.iitb.ac.in/~swaprava/group.html) and his [research page](https://www.cse.iitb.ac.in/~swaprava/research.html)). His work has been published in top AI and multiagent systems conferences, e.g., AAAI, IJCAI, AAMAS, WINE, and also in economics and management venues, e.g., Games and Econ Behavior, Economics Letters, Management Science. Apart from academic positions, Swaprava also has experience in the industry. He has worked at Xerox Research Centre Europe and Cisco Systems India. He has been recipients of Fulbright-Nehru postdoctoral grant, Tata Consultancy Services PhD Fellowship, and the Honorable Mention Award of Yahoo! Key Scientific Challenges Program.
+:::
 
 
 :::
