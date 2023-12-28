@@ -49,7 +49,7 @@ Note: we are also hosting the [nano-course on modern cryptography](https://www.n
 
 
 :::{.callout-note icon="false" collapse="true"}
-# `05-01-2024` · TBA
+# `05-01-2024` · Coming Soon, Stay Tuned!
 
 :::
 
@@ -63,8 +63,15 @@ Previously, he was a software engineer at Microsoft, where he worked on both Azu
 
 ---
 
+
+:::{.callout-warning icon="false" collapse="true"}
+# `12-01-2024`  · TBA
+:::
+
+---
+
 :::{.callout-note icon="false" collapse="true"}
-# `19-01-2024` · TBA
+# `19-01-2024` · Coming Soon, Stay Tuned!
 
 :::
 
@@ -72,6 +79,13 @@ Previously, he was a software engineer at Microsoft, where he worked on both Azu
 # About the Speaker · Jyothi Krishnan
 
 Jyothi Krishnan grew up solving puzzles and reading Martin Gardner’s books. Not realising that recreational mathematics provided any scope for a career, she pursued her other love of mechanics and collected a BTech from NIT Calicut, an MS from IIT Madras and a PhD from UC Berkeley. She has worked as a programmer, a bridge engineer, a research mathematician and a school teacher. Having been introduced to the world of modern board games during her PhD, she realised that it was a way to make fairly complicated mathematical reasoning accessible to a large number of children so she created a job playing games with kids in an alternative school in Bangalore. After running her game lab for 4 years she discovered like-minded people at CCL where she is thrilled to be making a living playing games and solving puzzles. At CCL she creates games and looks after math content.
+:::
+
+---
+
+
+:::{.callout-caution icon="false" collapse="true"}
+# `26-01-2024` · HOLIDAY: Republic Day  · NO SEMINAR
 :::
 
 ---
@@ -109,9 +123,20 @@ Shriram is the Vice President for Programming Languages at Brown University in P
 
 ---
 
+:::{.callout-warning icon="false" collapse="true"}
+# `09-02-2024` · TBA
+:::
+
+---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `16-02-2024` · TBA
+:::
+
+---
 
 :::{.callout-note icon="false" collapse="true"}
-# `23-02-2024` · TBA
+# `23-02-2024` · Coming Soon, Stay Tuned!
 
 :::
 
@@ -125,6 +150,52 @@ Rohit's research is in the area of computational social choice, which is the stu
 :::
 
 ---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `01-03-2024` · TBA
+:::
+
+---
+
+:::{.callout-caution icon="false" collapse="true"}
+# `08-03-2024` · HOLIDAY: Maha Shivratri · NO SEMINAR
+:::
+
+---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `15-03-2024` · TBA
+:::
+
+---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `22-03-2024` · TBA
+:::
+
+---
+
+:::{.callout-caution icon="false" collapse="true"}
+# `29-03-2024` · HOLIDAY: Good Friday · NO SEMINAR
+:::
+
+---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `05-04-2024`  · TBA
+:::
+
+---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `12-04-2024`  · TBA
+:::
+
+---
+
+:::{.callout-warning icon="false" collapse="true"}
+# `19-04-2024`  · TBA
+:::
 
 ## Past Talks
 
