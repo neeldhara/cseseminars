@@ -77,7 +77,9 @@ Jyothi Krishnan grew up solving puzzles and reading Martin Gardner’s books. No
 ---
 
 :::{.callout-note icon="false" collapse="true"}
-# `02-02-2024` · TBA
+# `02-02-2024` · `3PM to 4PM` · Functional Programming with Haskell -- A Teaser
+
+We provide a quick tour of the functional programming language Haskell, touching on the highlights like pattern matching, polymorphism, higher-order functions etc. We will focus on laziness, an essential feature that sets it apart from other functional languages, and two examples that illustrate how laziness helps in writing simple programs for complex tasks.
 
 :::
 
@@ -92,7 +94,9 @@ His other interests include classical Indian logic and epistemology, Carnatic mu
 ---
 
 :::{.callout-note icon="false" collapse="true"}
-# `02-02-2024` · TBA
+# `02-02-2024` · `4:30PM to 5:30PM` · Programming Before You Program
+
+Programming education, seemingly obviously, focuses on the writing of programs. But when novices struggle with programming, a lot of their difficulty is not with the program per se. What else is there? What do we know about it? And how can we make their experience better? This talk summarizes computing education research that asks and answers these questions.
 
 :::
 
