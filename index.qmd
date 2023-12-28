@@ -86,7 +86,7 @@ We provide a quick tour of the functional programming language Haskell, touching
 :::{.callout-tip icon="false" collapse="true"}
 # About the Speaker · S P Suresh
 
-S P  is on the faculty of Theoretical Computer Science at the Chennai Mathematical Institute. His research interests include logic in computer science, concurrency and distributed computing, and formal methods for security. He did his PhD at the Institute of Mathematical Sciences with Jam.
+S P Suresh is on the faculty of Theoretical Computer Science at the Chennai Mathematical Institute. His research interests include logic in computer science, concurrency and distributed computing, and formal methods for security. He did his PhD at the Institute of Mathematical Sciences with Jam.
 
 His other interests include classical Indian logic and epistemology, Carnatic music, chess, and P G Wodehouse. And his mission in life is to prove beautiful theorems and present them in beautifully typeset papers!
 :::
@@ -109,6 +109,22 @@ Shriram is the Vice President for Programming Languages at Brown University in P
 
 ---
 
+
+:::{.callout-note icon="false" collapse="true"}
+# `23-02-2024` · TBA
+
+:::
+
+:::{.callout-tip icon="false" collapse="true"}
+# About the Speaker · Rohit Vaish
+
+Rohit Vaish is an Assistant Professor in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Delhi and an associate faculty at Yardi School of Artificial Intelligence. Previously, he was a postdoctoral researcher at Tata Institute of Fundamental Research (TIFR) and at Rensselaer Polytechnic Institute (RPI), and prior to that, did my PhD from Indian Institute of Science (IISc).
+
+Rohit's research is in the area of computational social choice, which is the study of collective decision-making problems from a computational lens. More generally, he enjoys thinking about problems at the interface of economics and computer science.
+
+:::
+
+---
 
 ## Past Talks
 
