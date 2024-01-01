@@ -28,40 +28,24 @@ Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday
 ## Up Next
 
 :::{.callout-note icon="false"}
-# `29-12-2023` · How many Clusters ? - An Algorithmic Answer
+# `05-01-2024` · Understanding Problems Before Programming
 
-Many algorithms for clustering high dimensional data assume that k, the number of clusters, is given. However, there has been little work on provably inferring k from the data. In this talk, I shall describe polynomial time algorithms for fi€nding k from the data assuming it satisfies certain natural deterministic conditions. Informally, we assume that there is a Ground Truth (GT) clustering of the data with the following properties: (i) Each cluster has a certain minimum size, (ii) the inter-mean separation of any two distinct clusters in the GT is large enough (although still weaker than what is typically assumed in the literature), and (iii) we define a novel “no large sub-cluster”(NLSC) property that characterizes the notion of a cluster
-by stipulating that there be no subsets of low “directional variance”. NLSC is indeed satisfied by a large class of distributions including log-concave densities.  This is joint work with Chiranjib Bhattacharyya and Ravindran Kannan.
+Novice programmers often begin coding with a poor understanding of the task at hand and end up solving the wrong problem. To combat this, students are often asked to explain the problem in their own words. What words can students use meaningfully, how can we provide automated feedback, and how can we make this feedback maximally useful? This talk presents concrete solutions to all these problems.
 
 :::
 
 :::{.callout-tip icon="false"}
-# About the Speaker · Amit Kumar
-
-Amit Kumar is Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Delhi. He received his B.Tech. degree from Indian Institute of Technology Kanpur in 1997, and Ph.D. from Cornell University in 2002. He worked as Member of Technical Staff at Bell Labs, Murray Hill, New Jersey, U.S. during 2002–2003. He joined IIT Delhi as faculty member in 2003. He works in the area of combinatorial optimization, approximation algorithms and online algorithms. He is working extensively on problems arising in scheduling theory, clustering, and graph theoretic algorithmic problems.
-:::
-
----
-
-Note: we are also hosting the [nano-course on modern cryptography](https://www.neeldhara.com/courses/2023/crypto) by [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) this week.
-
-## Upcoming Talks
-
-
-:::{.callout-note icon="false" collapse="true"}
-# `05-01-2024` · Coming Soon, Stay Tuned!
-
-:::
-
-:::{.callout-tip icon="false" collapse="true"}
 # About the Speaker · Siddhartha Prasad
 
-Siddhartha Prasad is a PhD student in Computer Science at Brown University advised by Shriram Krishnamurthi. He works on formal methods, education, and programming languages as a member of Brown PLT. His current research hopes to help programmers better understand the problems they are solving.
+Siddhartha Prasad is a PhD student at Brown University, working on formal methods, education, and programming languages.  His current research aims to help programmers better understand the problems they are solving. Previously, he was a software engineer at Microsoft, working on Azure Cognitive Services and the XAML UI framework.
 
-Previously, he was a software engineer at Microsoft, where he worked on both Azure Cognitive Services and the XAML UI framework.
 :::
 
----
+<!-- ---
+
+Note: we are also hosting the [nano-course on modern cryptography](https://www.neeldhara.com/courses/2023/crypto) by [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) this week. -->
+
+## Upcoming Talks
 
 
 :::{.callout-warning icon="false" collapse="true"}
@@ -136,14 +120,18 @@ Shriram is the Vice President for Programming Languages at Brown University in P
 ---
 
 :::{.callout-note icon="false" collapse="true"}
-# `23-02-2024` · Coming Soon, Stay Tuned!
+# `23-02-2024` · A Brief History of Stable Matchings and Some Open Problems
+
+The stable matching problem asks to match two disjoints sets of agents, say students and schools, in a way that no pair of unmatched agents prefer to be matched with each other. I will review some classical results on the structural and game-theoretic aspects of the stable matching problem, discuss some recent developments (specifically, in capacity modification and preference manipulation), and highlight some open problems.
+
+Based on joint works with Hadi Hosseini and Fatima Umar, and with Salil Gokhale, Shivika Narang, and Samarth Singla.
 
 :::
 
 :::{.callout-tip icon="false" collapse="true"}
 # About the Speaker · Rohit Vaish
 
-Rohit Vaish is an Assistant Professor in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Delhi and an associate faculty at Yardi School of Artificial Intelligence. Previously, he was a postdoctoral researcher at Tata Institute of Fundamental Research (TIFR) and at Rensselaer Polytechnic Institute (RPI), and prior to that, did my PhD from Indian Institute of Science (IISc).
+Rohit Vaish is an Assistant Professor in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Delhi and an associate faculty at Yardi School of Artificial Intelligence. Previously, he was a postdoctoral researcher at Tata Institute of Fundamental Research (TIFR) and at Rensselaer Polytechnic Institute (RPI), and prior to that, did his PhD from Indian Institute of Science (IISc).
 
 Rohit's research is in the area of computational social choice, which is the study of collective decision-making problems from a computational lens. More generally, he enjoys thinking about problems at the interface of economics and computer science.
 
@@ -198,6 +186,22 @@ Rohit's research is in the area of computational social choice, which is the stu
 :::
 
 ## Past Talks
+
+:::{.callout-note icon="false"}
+# `29-12-2023` · How many Clusters ? - An Algorithmic Answer
+
+Many algorithms for clustering high dimensional data assume that k, the number of clusters, is given. However, there has been little work on provably inferring k from the data. In this talk, I shall describe polynomial time algorithms for fi€nding k from the data assuming it satisfies certain natural deterministic conditions. Informally, we assume that there is a Ground Truth (GT) clustering of the data with the following properties: (i) Each cluster has a certain minimum size, (ii) the inter-mean separation of any two distinct clusters in the GT is large enough (although still weaker than what is typically assumed in the literature), and (iii) we define a novel “no large sub-cluster”(NLSC) property that characterizes the notion of a cluster
+by stipulating that there be no subsets of low “directional variance”. NLSC is indeed satisfied by a large class of distributions including log-concave densities.  This is joint work with Chiranjib Bhattacharyya and Ravindran Kannan.
+
+:::
+
+:::{.callout-tip icon="false"}
+# About the Speaker · Amit Kumar
+
+Amit Kumar is Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Delhi. He received his B.Tech. degree from Indian Institute of Technology Kanpur in 1997, and Ph.D. from Cornell University in 2002. He worked as Member of Technical Staff at Bell Labs, Murray Hill, New Jersey, U.S. during 2002–2003. He joined IIT Delhi as faculty member in 2003. He works in the area of combinatorial optimization, approximation algorithms and online algorithms. He is working extensively on problems arising in scheduling theory, clustering, and graph theoretic algorithmic problems.
+:::
+
+---
 
 :::{.callout-note icon="false"}
 # `22-12-2023` · A Gale-Shapley View of Unique Stable Marriages
