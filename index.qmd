@@ -169,8 +169,15 @@ Rohit's research is in the area of computational social choice, which is the stu
 
 ---
 
-:::{.callout-warning icon="false" collapse="true"}
-# `05-04-2024`  · TBA
+:::{.callout-note icon="false" collapse="true"}
+# `05-04-2024` · Coming Soon, Stay Tuned!
+
+:::
+
+:::{.callout-tip icon="false" collapse="true"}
+# About The Speaker  · Supreet Saini
+
+Supreet Saini obtained his BTech in Chemical Engineering from IIT Delhi in 2005 and PhD in Chemical & Biomolecular Engineering from University of Illinois, Urbana-Champaign in 2010. Supreet is a Professor & a DBT/Wellcome Trust (India Alliance) Fellow in the Department of Chemical Engineering at IIT Bombay. Prior to joining IIT Bombay, he was an Assistant Professor of Chemical Engineering at IIT Gandhinagar (2010-2012), where he also headed the Faculty Recruitment Committee among other responsibilities. He is the recipient of the Young Engineer Award 2017 (Indian National Academy of Engineering) and the Innovative Young Biotechnologist Award 2011 (Department of Biotechnology). His research interests are in the area of evolutionary microbiology.
 :::
 
 ---
