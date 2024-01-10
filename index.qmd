@@ -27,19 +27,24 @@ Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday
 
 ## Up Next
 
-:::{.callout-note icon="false"}
-# `05-01-2024` · Understanding Problems Before Programming
+The talk below is also a part of the *Sabarmati Young Researchers Seminar Series (SYRSS)*.
 
-Novice programmers often begin coding with a poor understanding of the task at hand and end up solving the wrong problem. To combat this, students are often asked to explain the problem in their own words. What words can students use meaningfully, how can we provide automated feedback, and how can we make this feedback maximally useful? This talk presents concrete solutions to all these problems.
+
+:::{.callout-note icon="false"}
+# `19-01-2024` · Shield: Secure Allegation Escrow System with Stronger Guarantees
+
+The rising issues of harassment, exploitation, corruption, and other forms of abuse have led victims to seek comfort by acting in unison against common perpetrators (e.g., #MeToo movement). One way to curb these issues is to install allegation escrow systems that allow victims to report such incidents. The escrows are responsible for identifying victims of a common perpetrator and taking the necessary action to bring justice to them. However, users hesitate to participate in these systems due to the fear of such sensitive reports being leaked to perpetrators, who may further misuse them. Thus, to increase trust in the system, cryptographic solutions are being designed to realize secure allegation escrow (SAE) systems. 
+
+In the work of Arun et al. (NDSS'20), which presents the state-of-the-art solution, we identify attacks that can leak sensitive information and compromise victim privacy. We also report issues present in prior works that were left unidentified. To arrest all these breaches, we put forth an SAE system that prevents the identified attacks and retains the salient features from all prior works. The cryptographic technique of secure multi-party computation (MPC) serves as the primary underlying tool in designing our system. At the heart of our system lies a new duplicity check protocol and an improved matching protocol. We also provide additional features such as allegation modification and deletion, which were absent in the state of the art. To demonstrate feasibility, we benchmark the proposed system with state-of-the-art MPC protocols and report the cost of processing an allegation. Different settings that affect system performance are analyzed, and the reported values showcase the practicality of our solution.
 
 :::
 
 :::{.callout-tip icon="false"}
-# About the Speaker · Siddhartha Prasad
-
-Siddhartha Prasad is a PhD student at Brown University, working on formal methods, education, and programming languages.  His current research aims to help programmers better understand the problems they are solving. Previously, he was a software engineer at Microsoft, working on Azure Cognitive Services and the XAML UI framework.
+# About the Speaker · Varsha Bhat
 
 :::
+
+Note: there is no seminar on `12-01-2024`.
 
 <!-- ---
 
@@ -47,29 +52,22 @@ Note: we are also hosting the [nano-course on modern cryptography](https://www.n
 
 ## Upcoming Talks
 
-
-:::{.callout-warning icon="false" collapse="true"}
-# `12-01-2024`  · TBA
+:::{.callout-caution icon="false" collapse="true"}
+# `26-01-2024` · HOLIDAY: Republic Day  · NO SEMINAR
 :::
 
 ---
 
 :::{.callout-note icon="false" collapse="true"}
-# `19-01-2024` · Coming Soon, Stay Tuned!
+# `02-02-2024` · `2PM to 3PM` · Computing music: Crossing the left-right brain divide
+
+The history of computer music is nearly as old as computing itself. It has therefore borrowed and tracked various paradigms of programming and systems engineering in the course of its development and also introduced niche paradigms of its own. The domain offers a unique way to engage with computing for those with some ties to music, and vice versa. Teaching a class with students having diverse capabilities and interests therefore poses interesting challenges of individual development and group work. For context, I'll present some of the history of the domain and the modes of thinking that the field has employed, with a sample of various "languages", systems and methods in use. I'll then bring up some challenges of teaching it to a class, primarily around how to get students comfortable crossing the left-right brain divide.
 
 :::
 
 :::{.callout-tip icon="false" collapse="true"}
-# About the Speaker · Jyothi Krishnan
+# About the Speaker · Srikumar Subramanian
 
-Jyothi Krishnan grew up solving puzzles and reading Martin Gardner’s books. Not realising that recreational mathematics provided any scope for a career, she pursued her other love of mechanics and collected a BTech from NIT Calicut, an MS from IIT Madras and a PhD from UC Berkeley. She has worked as a programmer, a bridge engineer, a research mathematician and a school teacher. Having been introduced to the world of modern board games during her PhD, she realised that it was a way to make fairly complicated mathematical reasoning accessible to a large number of children so she created a job playing games with kids in an alternative school in Bangalore. After running her game lab for 4 years she discovered like-minded people at CCL where she is thrilled to be making a living playing games and solving puzzles. At CCL she creates games and looks after math content.
-:::
-
----
-
-
-:::{.callout-caution icon="false" collapse="true"}
-# `26-01-2024` · HOLIDAY: Republic Day  · NO SEMINAR
 :::
 
 ---
@@ -193,6 +191,23 @@ Supreet Saini obtained his BTech in Chemical Engineering from IIT Delhi in 2005 
 :::
 
 ## Past Talks
+
+
+:::{.callout-note icon="false"}
+# `05-01-2024` · Understanding Problems Before Programming
+
+Novice programmers often begin coding with a poor understanding of the task at hand and end up solving the wrong problem. To combat this, students are often asked to explain the problem in their own words. What words can students use meaningfully, how can we provide automated feedback, and how can we make this feedback maximally useful? This talk presents concrete solutions to all these problems.
+
+:::
+
+:::{.callout-tip icon="false"}
+# About the Speaker · Siddhartha Prasad
+
+Siddhartha Prasad is a PhD student at Brown University, working on formal methods, education, and programming languages.  His current research aims to help programmers better understand the problems they are solving. Previously, he was a software engineer at Microsoft, working on Azure Cognitive Services and the XAML UI framework.
+
+:::
+
+---
 
 :::{.callout-note icon="false"}
 # `29-12-2023` · How many Clusters ? - An Algorithmic Answer
