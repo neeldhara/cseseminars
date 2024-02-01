@@ -4,10 +4,10 @@ title: "2024 Spring · CSE Department Seminars"
 
 Welcome to the CSE Department Seminars for the Spring term of 2024! We are excited to announce an amazing lineup of speakers this semester. Unless mentioned otherwise:
 
-- all talks are hybrid, and you can join us either at `7/101`^[The speakers are typically present in person.] if you are on campus, or over [Zoom](
+- all talks are hybrid, and you can join us either at `1/201`^[The speakers are typically present in person.] if you are on campus, or over [Zoom](
 https://iitgn-ac-in.zoom.us/j/5086558236?pwd=bXl6NXFpQURVWnJZaDJucUpqN3hUZz09&omn=94677480599)^[The passcode is `t____g`. This is the first word in the popular phrases `****** test` and `****** award`. ChatGPT knows the answer too.];
 - are 50 minutes long, followed by 10 minutes of Q&A;
-- and start on Fridays at 3:30PM.
+- and start on Fridays at 3:30PM (except when there are multiple talks).
 
 Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday and would like to give a talk in this series.
 
@@ -27,36 +27,6 @@ Please send an email to `neeldhara.m@iitgn.ac.in` if you see an unclaimed Friday
 
 ## Up Next
 
-The talk below is also a part of the *Sabarmati Young Researchers Seminar Series (SYRSS)*.
-
-
-:::{.callout-note icon="false"}
-# `19-01-2024` · Shield: Secure Allegation Escrow System with Stronger Guarantees
-
-The rising issues of harassment, exploitation, corruption, and other forms of abuse have led victims to seek comfort by acting in unison against common perpetrators (e.g., #MeToo movement). One way to curb these issues is to install allegation escrow systems that allow victims to report such incidents. The escrows are responsible for identifying victims of a common perpetrator and taking the necessary action to bring justice to them. However, users hesitate to participate in these systems due to the fear of such sensitive reports being leaked to perpetrators, who may further misuse them. Thus, to increase trust in the system, cryptographic solutions are being designed to realize secure allegation escrow (SAE) systems. 
-
-In the work of Arun et al. (NDSS'20), which presents the state-of-the-art solution, we identify attacks that can leak sensitive information and compromise victim privacy. We also report issues present in prior works that were left unidentified. To arrest all these breaches, we put forth an SAE system that prevents the identified attacks and retains the salient features from all prior works. The cryptographic technique of secure multi-party computation (MPC) serves as the primary underlying tool in designing our system. At the heart of our system lies a new duplicity check protocol and an improved matching protocol. We also provide additional features such as allegation modification and deletion, which were absent in the state of the art. To demonstrate feasibility, we benchmark the proposed system with state-of-the-art MPC protocols and report the cost of processing an allegation. Different settings that affect system performance are analyzed, and the reported values showcase the practicality of our solution.
-
-:::
-
-:::{.callout-tip icon="false"}
-# About the Speaker · Varsha Bhat
-
-:::
-
-Note: there is no seminar on `12-01-2024`.
-
-<!-- ---
-
-Note: we are also hosting the [nano-course on modern cryptography](https://www.neeldhara.com/courses/2023/crypto) by [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) this week. -->
-
-## Upcoming Talks
-
-:::{.callout-caution icon="false" collapse="true"}
-# `26-01-2024` · HOLIDAY: Republic Day  · NO SEMINAR
-:::
-
----
 
 :::{.callout-note icon="false" collapse="true"}
 # `02-02-2024` · `2PM to 3PM` · Computing music: Crossing the left-right brain divide
@@ -67,6 +37,8 @@ The history of computer music is nearly as old as computing itself. It has there
 
 :::{.callout-tip icon="false" collapse="true"}
 # About the Speaker · Srikumar Subramanian
+
+Srikumar is currently a visiting professor of practice in the dept of Computer Science at Krea University, and also an "associate director", part of Accenture Technology Labs. His primary background is in audio and visual signal processing and he has worked in the "computing meets the arts" area for over a decade, with initial work on interactive music composition, followed by automating the construction of music videos in various programmed styles at muvee Technologies in Singapore, and modelling gamakas of Carnatic music for his PhD at NUS. He often has his fingers in many pies at the same time and enjoys that. His interest in teaching CS arose from his interest in programming languages that deepened while working on "muSE" -- a Scheme dialect he made for automatic video construction. Needless to say, he draws heavy inspiration from the work of the Racket team, from way back when it was MzScheme.
 
 :::
 
@@ -103,7 +75,17 @@ Shriram is the Vice President for Programming Languages at Brown University in P
 
 :::
 
----
+
+<!-- ---
+
+Note: we are also hosting the [nano-course on modern cryptography](https://www.neeldhara.com/courses/2023/crypto) by [Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) this week. -->
+
+## Upcoming Talks
+
+<!-- :::{.callout-caution icon="false" collapse="true"}
+# `26-01-2024` · HOLIDAY: Republic Day  · NO SEMINAR
+::: -->
+
 
 :::{.callout-warning icon="false" collapse="true"}
 # `09-02-2024` · TBA
@@ -191,6 +173,27 @@ Supreet Saini obtained his BTech in Chemical Engineering from IIT Delhi in 2005 
 :::
 
 ## Past Talks
+
+The talk below is also a part of the *Sabarmati Young Researchers Seminar Series (SYRSS)*.
+
+
+:::{.callout-note icon="false"}
+# `19-01-2024` · Shield: Secure Allegation Escrow System with Stronger Guarantees
+
+The rising issues of harassment, exploitation, corruption, and other forms of abuse have led victims to seek comfort by acting in unison against common perpetrators (e.g., #MeToo movement). One way to curb these issues is to install allegation escrow systems that allow victims to report such incidents. The escrows are responsible for identifying victims of a common perpetrator and taking the necessary action to bring justice to them. However, users hesitate to participate in these systems due to the fear of such sensitive reports being leaked to perpetrators, who may further misuse them. Thus, to increase trust in the system, cryptographic solutions are being designed to realize secure allegation escrow (SAE) systems. 
+
+In the work of Arun et al. (NDSS'20), which presents the state-of-the-art solution, we identify attacks that can leak sensitive information and compromise victim privacy. We also report issues present in prior works that were left unidentified. To arrest all these breaches, we put forth an SAE system that prevents the identified attacks and retains the salient features from all prior works. The cryptographic technique of secure multi-party computation (MPC) serves as the primary underlying tool in designing our system. At the heart of our system lies a new duplicity check protocol and an improved matching protocol. We also provide additional features such as allegation modification and deletion, which were absent in the state of the art. To demonstrate feasibility, we benchmark the proposed system with state-of-the-art MPC protocols and report the cost of processing an allegation. Different settings that affect system performance are analyzed, and the reported values showcase the practicality of our solution.
+
+:::
+
+:::{.callout-tip icon="false"}
+# About the Speaker · Varsha Bhat
+
+Dr. Varsha Bhat was previously a post-doctoral researcher at the Cryptography and Information Security Lab of IISc under the Prof. Arpita Patra. She completed her PhD from Indian Institute of Technology Ropar, under the guidance of Dr. Sudarshan Iyengar. Prior to this, she completed her B.E. in Computer Science and Engineering from Dayananda Sagar College of Engineering (under VTU). So far, the focus of her research has been on designing secure solutions for various real-world applications, including those with financial and social relevance, using the techniques of secure multiparty computation (MPC).
+
+:::
+
+---
 
 
 :::{.callout-note icon="false"}
